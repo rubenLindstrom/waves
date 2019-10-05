@@ -1,6 +1,7 @@
 /node_modules
+/jsons
 
-
+.DS_STORE
 .env
 
 Notes.docx
